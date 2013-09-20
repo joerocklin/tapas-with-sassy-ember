@@ -1,13 +1,14 @@
-# Tapas with Ember
+# Tapas with Sassy Ember
 
 A [Brunch][] skeleton for rapid [Ember][] development. Including Ember
 installation scripts, environment-specific JS builds, generators, and
-[Rails.vim][] support.
+[Rails.vim][] support. This is based on the [Tapas-with-ember][] skeleton
+by Jeremy Mack
 
 <p align="center">
   <a href="http://www.youtube.com/watch?v=BP7lTpNfkyU">
     <img src="http://i.imgur.com/KxXQFtp.png"
-    alt="Me talking about Tapas with Ember">
+    alt="Jeremy Mack talking about Tapas with Ember">
   </a>
 </p>
 
@@ -15,8 +16,7 @@ installation scripts, environment-specific JS builds, generators, and
 
 * [Brunch][]
 * [Ember][]
-* [CoffeeScript][]
-* [Stylus][]
+* [Sass][]
 * [Handlebars](http://handlebarsjs.com)
 * [HTML5 Boilerplate](http://html5boilerplate.com)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
@@ -201,8 +201,8 @@ A [`projections.json`](/config/projections.json) file is specified for
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mutewinter/tapas-with-ember/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 [brunch-with-ember-reloaded]: https://github.com/gcollazo/brunch-with-ember-reloaded
-[Stylus]: http://learnboost.github.io/stylus/
-[CoffeeScript]: http://coffeescript.org/
+[tapas-with-ember]: https://github.com/mutewinter/tapas-with-ember
+[Sass]: http://sass-lang.com/
 [auto-reload-brunch]: https://github.com/brunch/auto-reload-brunch
 [Brunch]: http://brunch.io
 [Ember]: http://emberjs.com
